@@ -1,6 +1,6 @@
 # docker
 
-```javascript
+```python
 This is a test
 {
   <insert_something_here>
