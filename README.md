@@ -1,16 +1,12 @@
 # docker
 
 ```python
-This is a test
-{
-  <insert_something_here>
-}
+# To list containers by their ID use –aq
+docker ps –aq
 ```
 ```javascript
-This is a test Again
-{
-  <insert_something_here>
-}
+# list all containers, running and stopped
+docker ps –a
 ```
 ```javascript
 First Header | Second Header
