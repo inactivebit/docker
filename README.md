@@ -9,17 +9,18 @@ docker ps –aq
 docker ps –a
 ```
 ```javascript
-First Header | Second Header
------------- | -------------
-             |
-             |
-             |
-             |
-             |
-             |
-             |
-             |
-             
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+# Request Review
+                                               HTTP         | JSON
+----------------------------------------------------------- | --------------------------------------------------------------------------------
+curl -v -X GET http://example/html -H "accept: text/html"   | curl -v -X GET <http://example.com/json -H "accept: application/json"
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            
 ```
